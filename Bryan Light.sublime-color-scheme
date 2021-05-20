@@ -1,0 +1,22 @@
+{
+    "name": "Bryan Light",
+    "author": "Bryan",
+    "variables":
+    {
+    },
+    "globals":
+    {
+        "background": "#FFFFFF",
+        "foreground": "color(#000000 alpha(0.85))",
+        "invisibles": "#D6D6D6",
+        "caret": "#000000",
+        "line_highlight": "#EEF5FE",
+        "misspelling": "#FF0000",
+        "gutter_foreground": "color(#000000 alpha(0.35))",
+        "gutter_foreground_highlight": "#000000",
+        "selection": "#BAD6FB",
+        "selection_border_width": "0",
+        "inactive_selection": "#D3D3D3",
+        "selection_corner_style": "square"
+    },
+}
