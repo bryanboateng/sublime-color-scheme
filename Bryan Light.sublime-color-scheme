@@ -19,4 +19,12 @@
         "inactive_selection": "#D3D3D3",
         "selection_corner_style": "square"
     },
+    "rules":
+    [
+        {
+            "name": "String",
+            "scope": "string",
+            "foreground": "#C03E2A"
+        },
+    ]
 }
