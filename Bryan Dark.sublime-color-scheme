@@ -36,6 +36,11 @@
             "scope": "keyword - keyword.operator, keyword.operator.word",
             "foreground": "#EE81B0",
             "font_style": "bold"
+        },
+        {
+            "name": "Library function",
+            "scope": "support.function, support.macro",
+            "foreground": "#AA83E5",
         }
     ]
 }
