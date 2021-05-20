@@ -22,6 +22,11 @@
     "rules":
     [
         {
+            "name": "Comment",
+            "scope": "comment, punctuation.definition.comment",
+            "foreground": "#737F8B"
+        },
+        {
             "name": "String",
             "scope": "string",
             "foreground": "#C03E2A"
