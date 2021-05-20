@@ -31,5 +31,11 @@
             "scope": "string",
             "foreground": "#EF8876"
         },
+        {
+            "name": "Keyword",
+            "scope": "keyword - keyword.operator, keyword.operator.word",
+            "foreground": "#EE81B0",
+            "font_style": "bold"
+        }
     ]
 }
